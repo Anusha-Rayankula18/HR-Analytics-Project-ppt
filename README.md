@@ -11,8 +11,11 @@ It contains information about employees, including demographics, performance met
 Tools Used
 
 • Excel: For data preprocessing, analysis, and some basic visualizations.
+
 • Tableau: For creating interactive visualizations and dashboards.
+
 • Power BI: For generating interactive reports and dashboards.
+
 • SQL: For querying and manipulating data stored in a database.
 
 Conclusion
